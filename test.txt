@@ -1,2 +1,4 @@
 Test of branches
 git, github
+
+beach add commit
